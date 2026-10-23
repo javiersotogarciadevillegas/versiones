@@ -1,0 +1,9 @@
+{
+  "_nota": "Última versión de cada placa. Lo leen las páginas web de las placas para avisar de que hay una versión nueva. Solo números de versión: nada de código ni contraseñas.",
+  "cam1":       { "version": "v1.0", "fecha": "23/10/2026", "cambios": "Versión y aviso de GitHub en la página principal" },
+  "tablero31_2": { "version": "V_31_7_3", "fecha": "23/10/2026", "cambios": "ACK, sincronización, temperatura, cobertura, RF por los repetidores" },
+  "tablero-223": { "version": "V_31_5_6_3-223", "fecha": "23/10/2026", "cambios": "ACK, sincronización, temperatura, cobertura, RF por los repetidores" },
+  "receptor_4reles": { "version": "4R v2.4", "fecha": "22/10/2026", "cambios": "ACK y cobertura" },
+  "receptor_8reles": { "version": "8R v2.4", "fecha": "22/10/2026", "cambios": "ACK y cobertura" },
+  "repetidor":  { "version": "v1.1", "fecha": "23/10/2026", "cambios": "RF pedida por los tableros" }
+}
