@@ -10,7 +10,7 @@ enseñan:
 - ⬆ vX — en GitHub hay una versión más nueva (pasando el ratón se ve la fecha y qué cambia).
 - ⚪ — no se ha podido comprobar (el móvil o PC con el que la miras no tiene internet).
 
-Por ahora lo usa la **cámara (cam1)**, desde su versión v1.0.
+Por ahora lo usan la **cámara (cam1)**, desde su versión v1.0, y la **cámara con caras (cam1_facial)**, desde su versión v2.0.
 
 ## Al sacar una versión nueva de una placa
 
